@@ -4,7 +4,7 @@
  * @return {number[][]}
  */
 var kClosest = function(points, k) {
-  let distances = []
+     let distances = []
 
     for(let i = 0; i < points.length ; i++){
           let point = points[i]
@@ -21,5 +21,4 @@ var kClosest = function(points, k) {
     }
 
     return result;
-    
 };
