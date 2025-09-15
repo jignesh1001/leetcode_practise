@@ -1,15 +1,20 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
+        Map<Integer, Integer> preSum = new HashMap<>();
+        preSum.put(0, 1); 
         int count = 0, sum = 0;
-        for(int i = 0; i < nums.length;i++){
-            sum = 0;
-            for(int j = i; j < nums.length;j++){
-                sum += nums[j];
-                if(sum == k){
-                    count++;
-                }
+
+        for (int num : nums) {
+            sum += num;
+            int rem = sum - k;
+
+            if (preSum.containsKey(rem)) {
+                count += preSum.get(rem); // add all possible subarrays
             }
+
+            preSum.put(sum, preSum.getOrDefault(sum, 0) + 1); // store freq
         }
+
         return count;
     }
 }
