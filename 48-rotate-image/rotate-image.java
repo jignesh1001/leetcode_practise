@@ -1,22 +1,32 @@
 class Solution {
     public void rotate(int[][] matrix) {
-        // brute force approach
         int n = matrix.length;
-        int[][] arr = new int[n][n];
+        int temp;
+        for (int i = 0; i < n - 1; i++) {
+            for (int j = i + 1; j < n; j++) {
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
+                temp = matrix[i][j];
+                matrix[i][j] = matrix[j][i];
+                matrix[j][i] = temp;
 
-                arr[j][(n - 1) - i] = matrix[i][j];
             }
         }
 
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-
-                matrix[i][j] = arr[i][j];
-            }
+             reverse(matrix[i]);
         }
+    }
 
+    public static void reverse(int arr[]){
+        int left = 0;
+        int right = arr.length -1;
+        int temp;
+        while(left < right){
+           temp = arr[left];
+           arr[left] = arr[right];
+           arr[right] = temp;
+           left++;
+           right--;
+        }
     }
 }
