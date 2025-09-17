@@ -1,5 +1,6 @@
 class Solution {
     public void rotate(int[][] matrix) {
+        // brute force approach
         int n = matrix.length;
         int[][] arr = new int[n][n];
 
