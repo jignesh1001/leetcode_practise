@@ -3,29 +3,27 @@ class Solution {
         List<List<String>> result = new ArrayList<>();
         boolean[] visited = new boolean[strs.length];
 
+        for (int i = 0; i < strs.length; i++) {
+            if (visited[i])
+                continue;
 
-        for(int i = 0; i < strs.length;i++){
-            if(visited[i]) continue;
-
-            List<String> innerList = new ArrayList<>();
-            innerList.add(strs[i]);
+            List<String> inner = new ArrayList<>();
+            inner.add(strs[i]);
             visited[i] = true;
-
-            for(int j = i + 1; j < strs.length; j++){
-
-                if(!visited[j] && isAnagram(strs[i],strs[j])){
-                    innerList.add(strs[j]);
+            for (int j = i + 1; j < strs.length; j++) {
+                if (!visited[j] && isAnagram(strs[i], strs[j])) {
+                    inner.add(strs[j]);
                     visited[j] = true;
                 }
             }
-            result.add(innerList);
-        }
+            result.add(inner);
 
+        }
         return result;
     }
 
-    public static boolean isAnagram(String s, String t){
-        if(s.length() != t.length()) return false;
+    public static boolean isAnagram(String s, String t) {
+         if(s.length() != t.length()) return false;
 
 
         char[] sArr = s.toCharArray();
@@ -36,7 +34,6 @@ class Solution {
         Arrays.sort(tArr);
 
         return Arrays.equals(sArr,tArr);
-
 
     }
 }
