@@ -1,13 +1,17 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        if(s.length() != t.length()) return false;
+        Map<Character,Integer> map = new HashMap<>();
 
-        char[] sArr = s.toCharArray();
-        char[] tArr = t.toCharArray();
+        for(int i = 0; i < s.length();i++){
+            map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0) + 1);
+        }
+        for(int i = 0; i < t.length();i++){
+            map.put(t.charAt(i),map.getOrDefault(t.charAt(i),0) - 1);
+        }
 
-        Arrays.sort(sArr);
-        Arrays.sort(tArr);
-
-        return Arrays.equals(sArr,tArr);
+        for(Map.Entry<Character,Integer> entryset: map.entrySet()){
+            if(entryset.getValue() != 0) return false;
+        }
+        return true;
     }
 }
