@@ -1,23 +1,13 @@
-// class Solution {
-//     public boolean containsDuplicate(int[] nums) {
-//           HashSet<Integer> set = new HashSet<>();
-//           for(int num: nums){
-//             if(!set.add(num))
-//                return true;
-//           }
-//           return false;
-//     }
-// }
+class Solution {
+    public boolean containsDuplicate(int[] nums) {
+        Map<Integer,Integer> map = new HashMap<>();
 
-class Solution{
-     public boolean containsDuplicate(int[] nums){
-           HashMap<Integer,Integer> map = new HashMap<>();
-           for(int num:nums){
-             if(map.containsKey(num)){
-                return true;
-             }
-             map.put(num,Arrays.asList(nums).indexOf(num));
-           }
-           return false;
-     }
+        for(int x:nums){
+            map.put(x,map.getOrDefault(x,0)+1);
+        }
+        for(int value: map.values()){
+            if(value > 1) return true;
+        }
+        return false;
+    }
 }
