@@ -12,10 +12,10 @@ class Solution {
 
             max = Math.max(max, area);
 
-            if (height[left] > height[right]) {
-                right--;
-            } else {
+            if (height[left] < height[right]) {
                 left++;
+            } else {
+                right--;
 
             }
 
