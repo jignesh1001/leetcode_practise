@@ -3,20 +3,21 @@ class Solution {
         int n = nums.length;
         Set<List<Integer>> st = new HashSet<>();
         for (int i = 0; i < n; i++) {
-            Set<Integer> hashSet = new HashSet<>();
+            Set<Integer> tempSet = new HashSet<>();
             for (int j = i + 1; j < n; j++) {
-                int third = -(nums[i] + nums[j]);
-                if (hashSet.contains(third)) {
-                    List<Integer> temp = new ArrayList<>(Arrays.asList(nums[i], nums[j], third));
-                    Collections.sort(temp);
-                    st.add(temp);
+                int temp = -(nums[i] + nums[j]);
+                if (tempSet.contains(temp)) {
+                    List<Integer> result = new ArrayList<>(Arrays.asList(nums[i], nums[j], temp));
+                    Collections.sort(result);
+                    st.add(result);
                 }
-                hashSet.add(nums[j]);
-            }
 
+                tempSet.add(nums[j]);
+            }
         }
-        List<List<Integer>> ans = new ArrayList<>();
-        ans.addAll(st);
-        return ans;
+
+        List<List<Integer>> res = new ArrayList<>();
+        res.addAll(st);
+        return res;
     }
 }
