@@ -1,16 +1,16 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
-        if(nums1.length > nums2.length){
-            return intersection(nums2,nums1);
+        if (nums1.length > nums2.length) {
+            return intersection(nums2, nums1);
         }
         Set<Integer> set1 = new HashSet<>();
-        for(int n:nums1){
+        for (int n : nums1) {
             set1.add(n);
         }
-         List<Integer> resultList = new ArrayList<>();
+        List<Integer> resultList = new ArrayList<>();
 
-         for (int n : nums2) {
-            if (set1.remove(n)) {  
+        for (int n : nums2) {
+            if (set1.remove(n)) {
                 resultList.add(n);
             }
         }
