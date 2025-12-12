@@ -1,46 +1,37 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int m = matrix[0].length;
-        int n = matrix.length;
+        int m = matrix.length;
+        int n = matrix[0].length;
 
-        // int[] col = new int[m] ---> matrix[0][..]
-        // int[] row = new int[n] ---> matrix[..][0]
-        int col0 = 1;
-        for(int i = 0; i < n;i++){
-            for(int j = 0; j < m;j++){
-               
-               if(matrix[i][j] == 0){
+        boolean[][] marked = new boolean[m][n];
 
-                 matrix[i][0] = 0;
-
-                 if( j != 0){
-                    matrix[0][j] = 0;
-                 }
-                 else{
-                    col0 = 0;
-                 }
-               }
-            }
-        }
-
-        for(int i = 1; i < n;i++){
-            for(int j = 1; j < m;j++){
-                if(matrix[i][j] != 0){
-
-                    if(matrix[0][j] == 0 || matrix[i][0] == 0 ){
-                        matrix[i][j] = 0;
-                    }
+        for(int i = 0;i < m;i++){
+            for(int j = 0; j < n;j++){
+                if(matrix[i][j] == 0){
+                    marked[i][j] = true;
                 }
             }
         }
 
-        if(matrix[0][0] == 0){
-            for(int j = 0; j < m;j++) matrix[0][j] = 0;
-        }
-        if(col0 == 0){
-            for(int i = 0; i < n;i++){
-                matrix[i][0] = 0;
+        for(int i = 0; i < m;i++){
+            for(int j = 0; j < n;j++){
+                if(marked[i][j]){
+                    rowZero(i,matrix);
+                    colZero(j,matrix);
+                }
             }
+        }
+    }
+    public void rowZero(int row,int[][] matrix){
+        int n = matrix[0].length;
+        for(int j = 0; j < n;j++ ){
+            matrix[row][j] = 0;
+        }
+    }
+    public void colZero(int col,int[][] matrix){
+        int m = matrix.length;
+        for(int i = 0; i < m;i++ ){
+            matrix[i][col] = 0;
         }
     }
 }
