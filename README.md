@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jignesh1001/leetcode_practise/tree/master/0001-two-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/jignesh1001/leetcode_practise/tree/master/0416-partition-equal-subset-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jignesh1001/leetcode_practise/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/jignesh1001/leetcode_practise/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
