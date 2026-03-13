@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0189-rotate-array) |
 | [0416-partition-equal-subset-sum](https://github.com/jignesh1001/leetcode_practise/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jignesh1001/leetcode_practise/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/jignesh1001/leetcode_practise/tree/master/0518-coin-change-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/jignesh1001/leetcode_practise/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jignesh1001/leetcode_practise/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/jignesh1001/leetcode_practise/tree/master/0518-coin-change-ii) |
 ## Math
 |  |
 | ------- |
