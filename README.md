@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/jignesh1001/leetcode_practise/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jignesh1001/leetcode_practise/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/jignesh1001/leetcode_practise/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/jignesh1001/leetcode_practise/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/jignesh1001/leetcode_practise/tree/master/0322-coin-change) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/jignesh1001/leetcode_practise/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
