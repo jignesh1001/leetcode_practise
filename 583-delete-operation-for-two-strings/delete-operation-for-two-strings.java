@@ -28,6 +28,6 @@ class Solution {
             }
         }
 
-        return (m-t[m][n]+n-t[m][n]);
+        return (m+n - 2* t[m][n]);
     }
 }
