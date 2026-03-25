@@ -1,16 +1,13 @@
-import java.util.Arrays;
 class Solution {
     public int findKthLargest(int[] nums, int k) {
-        //  O(n * log(K)) time and O(K) space
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        PriorityQueue<Integer> min = new PriorityQueue<>();
 
-        for(int num:nums){
-            pq.add(num);
-
-            if(pq.size() > k){
-                pq.poll();
+        for(int i:nums){
+            min.add(i);
+            if(min.size() > k){
+                min.poll();
             }
         }
-        return pq.peek();
+        return min.peek();
     }
 }
