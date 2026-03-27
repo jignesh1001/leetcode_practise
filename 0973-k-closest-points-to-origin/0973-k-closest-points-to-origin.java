@@ -5,8 +5,7 @@ class Solution {
             (a, b) -> b.num - a.num
         );
 
-        for(int i = 0; i < n;i++){
-            int[] point = points[i];
+        for(int[] point: points){
             int distance = (point[0]*point[0] + point[1]*point[1]);
             pq.add(new Pair(point,distance));
             if(pq.size() > k){
