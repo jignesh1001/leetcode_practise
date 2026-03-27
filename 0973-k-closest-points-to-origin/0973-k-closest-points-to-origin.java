@@ -16,7 +16,8 @@ class Solution {
         int res[][] = new int[k][2];
         int i =0;
         while(pq.size()>0){
-            res[i++] = pq.poll().arrVal;
+            res[i] = pq.poll().arrVal;
+            i++;
         }
 
         return res;
