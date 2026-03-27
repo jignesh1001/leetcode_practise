@@ -1,6 +1,6 @@
 class Solution {
     public int[][] kClosest(int[][] points, int k) {
-        int n = points.length;
+    
         PriorityQueue<Pair> pq = new PriorityQueue<>(
             (a, b) -> b.num - a.num
         );
