@@ -8,7 +8,7 @@ class Solution {
         for(int i = 0; i < n;i++){
             int[] point = points[i];
             int distance = (point[0]*point[0] + point[1]*point[1]);
-            pq.offer(new Pair(point,distance));
+            pq.add(new Pair(point,distance));
             if(pq.size() > k){
                 pq.poll();
             }
@@ -16,8 +16,7 @@ class Solution {
         int res[][] = new int[k][2];
         int i =0;
         while(pq.size()>0){
-            res[i] = pq.poll().arrVal;
-            i++;
+            res[i++] = pq.poll().arrVal;
         }
 
         return res;
