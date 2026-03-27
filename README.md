@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/jignesh1001/leetcode_practise/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/jignesh1001/leetcode_practise/tree/master/0518-coin-change-ii) |
 | [0658-find-k-closest-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/jignesh1001/leetcode_practise/tree/master/0704-binary-search) |
 | [0973-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode_practise/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/jignesh1001/leetcode_practise/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
