@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/jignesh1001/leetcode_practise/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/jignesh1001/leetcode_practise/tree/master/0518-coin-change-ii) |
 | [0658-find-k-closest-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode_practise/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0189-rotate-array) |
+| [0973-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode_practise/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,23 +72,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode_practise/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode_practise/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode_practise/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode_practise/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode_practise/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
