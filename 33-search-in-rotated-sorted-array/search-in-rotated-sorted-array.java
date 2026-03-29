@@ -1,4 +1,5 @@
 class Solution {
+    // searching in both partition of pivot
     public int search(int[] nums, int target) {
         int start = 0, end = nums.length -1;
          int pivot = min(nums);
@@ -8,6 +9,7 @@ class Solution {
          return (first != -1) ? first : second;
     
     }
+    //simple binary search
     public int bs(int[] arr,int start,int end,int target){
         
         while(start <= end){
@@ -24,6 +26,7 @@ class Solution {
         }
         return -1;
     }
+    // minimum in rotated sorted 153lc
     public int min(int[] arr){
       int start = 0,end = arr.length - 1;
       while(start <= end){
