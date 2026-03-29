@@ -10,7 +10,7 @@ class Solution {
                 start = mid + 1;
             }
             else{
-                end = mid -1;
+                end = mid ;
             }
         }
         return 0;
