@@ -6,11 +6,11 @@ class Solution {
             
             int mid = start + (end -start)/2;
             
-            if(nums[mid] < nums[end]){
-                 end = mid;
+            if(nums[mid] > nums[end]){
+                start = mid +1;
             }
             else{
-                start = mid +1;
+                 end = mid;
             }
         }
         return 0;
