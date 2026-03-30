@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/jignesh1001/leetcode_practise/tree/master/0704-binary-search) |
 | [0973-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode_practise/tree/master/0973-k-closest-points-to-origin) |
+| [1200-minimum-absolute-difference](https://github.com/jignesh1001/leetcode_practise/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode_practise/tree/master/0973-k-closest-points-to-origin) |
+| [1200-minimum-absolute-difference](https://github.com/jignesh1001/leetcode_practise/tree/master/1200-minimum-absolute-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
