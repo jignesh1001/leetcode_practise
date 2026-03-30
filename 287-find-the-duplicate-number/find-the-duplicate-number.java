@@ -1,18 +1,24 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        Map<Integer,Integer> map = new HashMap<>();
+        int low = 0,high = nums.length -1;
 
-        for(int n:nums){
-            map.put(n,map.getOrDefault(n,0)+1);
-        }
-        if(map.size() == 1){
-            return nums[0];
-        }
-        for(Map.Entry entry:map.entrySet()){
-            if((int)entry.getValue() >= 2){
-                return (int)entry.getKey();
+        while(low < high){
+           int mid = low + (high - low)/2;
+           int count = 0;
+
+           for(int num:nums){
+            if(num <= mid){
+                count += 1;
             }
+           }
+
+           if(count > mid){
+            high = mid;
+           }
+           else{
+            low = mid + 1;
+           }
         }
-        return nums[0];
+        return low;
     }
 }
