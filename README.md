@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/jignesh1001/leetcode_practise/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jignesh1001/leetcode_practise/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/jignesh1001/leetcode_practise/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/jignesh1001/leetcode_practise/tree/master/0704-binary-search) |
 | [0973-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode_practise/tree/master/0973-k-closest-points-to-origin) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/jignesh1001/leetcode_practise/tree/master/0704-binary-search) |
 ## Sliding Window
