@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/jignesh1001/leetcode_practise/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/jignesh1001/leetcode_practise/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/jignesh1001/leetcode_practise/tree/master/0416-partition-equal-subset-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/jignesh1001/leetcode_practise/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/jignesh1001/leetcode_practise/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0658-find-k-closest-elements) |
 ## Backtracking
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/jignesh1001/leetcode_practise/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/jignesh1001/leetcode_practise/tree/master/0704-binary-search) |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode_practise/tree/master/0973-k-closest-points-to-origin) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jignesh1001/leetcode_practise/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
