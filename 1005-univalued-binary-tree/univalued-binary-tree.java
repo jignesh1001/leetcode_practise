@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    // dfs tree traversal
     public boolean isUnivalTree(TreeNode root) {
         int val = root.val;
         return preOrder(root,val);
