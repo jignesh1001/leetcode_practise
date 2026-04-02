@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/jignesh1001/leetcode_practise/tree/master/0322-coin-change) |
+| [0965-univalued-binary-tree](https://github.com/jignesh1001/leetcode_practise/tree/master/0965-univalued-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -134,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/jignesh1001/leetcode_practise/tree/master/0287-find-the-duplicate-number) |
+## Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/jignesh1001/leetcode_practise/tree/master/0965-univalued-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/jignesh1001/leetcode_practise/tree/master/0965-univalued-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/jignesh1001/leetcode_practise/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
