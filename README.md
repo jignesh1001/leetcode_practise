@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jignesh1001/leetcode_practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/jignesh1001/leetcode_practise/tree/master/0322-coin-change) |
 | [0965-univalued-binary-tree](https://github.com/jignesh1001/leetcode_practise/tree/master/0965-univalued-binary-tree) |
 ## String
@@ -138,13 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jignesh1001/leetcode_practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/jignesh1001/leetcode_practise/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jignesh1001/leetcode_practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/jignesh1001/leetcode_practise/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jignesh1001/leetcode_practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/jignesh1001/leetcode_practise/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
