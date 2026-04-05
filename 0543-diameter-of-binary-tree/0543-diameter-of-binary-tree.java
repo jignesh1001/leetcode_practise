@@ -36,6 +36,7 @@ class Solution {
         info linfo = diameter(root.left);
         info rinfo = diameter(root.right);
 
+        //changes lh + rh + 1 -> lh + rh
         int finalDiam = Math.max(linfo.ht+rinfo.ht, Math.max(linfo.diam,rinfo.diam));
 
         int finalHt = Math.max(linfo.ht,rinfo.ht)+1;
