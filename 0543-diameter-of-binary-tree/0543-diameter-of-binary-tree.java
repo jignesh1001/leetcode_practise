@@ -22,6 +22,7 @@ class Solution {
         int lh = height(root.left);
         int rdiam = diameterOfBinaryTree(root.right);
         int rh = height(root.right);
+        //changes lh + rh + 1 -> lh + rh
         int sdiam = lh + rh ;
         return Math.max(sdiam, Math.max(ldiam, rdiam));
     }
