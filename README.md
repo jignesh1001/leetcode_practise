@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jignesh1001/leetcode_practise/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/jignesh1001/leetcode_practise/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/jignesh1001/leetcode_practise/tree/master/0287-find-the-duplicate-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jignesh1001/leetcode_practise/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/jignesh1001/leetcode_practise/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
@@ -83,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jignesh1001/leetcode_practise/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/jignesh1001/leetcode_practise/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jignesh1001/leetcode_practise/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0658-find-k-closest-elements) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jignesh1001/leetcode_practise/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0347-top-k-frequent-elements) |
 ## Geometry
 |  |
