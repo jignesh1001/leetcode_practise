@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jignesh1001/leetcode_practise/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/jignesh1001/leetcode_practise/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/jignesh1001/leetcode_practise/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/jignesh1001/leetcode_practise/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/jignesh1001/leetcode_practise/tree/master/0347-top-k-frequent-elements) |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/jignesh1001/leetcode_practise/tree/master/0572-subtree-of-another-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/jignesh1001/leetcode_practise/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
