@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jignesh1001/leetcode_practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/jignesh1001/leetcode_practise/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/jignesh1001/leetcode_practise/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/jignesh1001/leetcode_practise/tree/master/0344-reverse-string) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jignesh1001/leetcode_practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/jignesh1001/leetcode_practise/tree/master/0044-wildcard-matching) |
 | [0344-reverse-string](https://github.com/jignesh1001/leetcode_practise/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/jignesh1001/leetcode_practise/tree/master/0516-longest-palindromic-subsequence) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jignesh1001/leetcode_practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/jignesh1001/leetcode_practise/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
