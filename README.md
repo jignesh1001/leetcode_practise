@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/jignesh1001/leetcode_practise/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/jignesh1001/leetcode_practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/jignesh1001/leetcode_practise/tree/master/0583-delete-operation-for-two-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/jignesh1001/leetcode_practise/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/jignesh1001/leetcode_practise/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/jignesh1001/leetcode_practise/tree/master/1143-longest-common-subsequence) |
 ## Greedy
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jignesh1001/leetcode_practise/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/jignesh1001/leetcode_practise/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
