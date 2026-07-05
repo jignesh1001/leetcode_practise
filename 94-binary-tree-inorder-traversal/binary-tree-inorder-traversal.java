@@ -24,6 +24,5 @@ class Solution {
         ans.add(root.val);
         ans.addAll(inorderTraversal(root.right));
         return ans;
-
     }
 }
